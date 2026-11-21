@@ -1,0 +1,9 @@
+# środowisko wirtualne
+.venv
+
+# katalogi pythona
+__pycache__
+
+# pliki tymczasowe
+
+Thumbs.db
